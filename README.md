@@ -1,3 +1,5 @@
+This is my attempt to make a Python 3-compatible version of 1aN0rmus' excellent TekDefense-Automater script. 
+
 TekDefense-Automater Version: 0.21
 ====================
 
